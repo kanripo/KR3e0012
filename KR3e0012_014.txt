@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 巢氏諸病源候總論
-#+DATE: 2019-03-29 21:03:56.430666
+#+DATE: 2019-03-29 21:03:56.757712
 #+PROPERTY: ID KR3e0012
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 14
 <pb:KR3e0012_WYG_014-1a>¶
 　　欽定四庫全書¶
@@ -119,7 +119,7 @@
 後¶
 ¶
 　　養生方導引法云先以鼻内氣乃閉口欬還復以鼻内¶
-氣欬則愈向晨去枕正偃卧伸臂脛&KR0578;目閉口無息極¶
+氣欬則愈向晨去枕正偃卧伸臂脛瞑目閉口無息極¶
 <pb:KR3e0012_WYG_014-6a>¶
 脹腹兩足再頃間吸腹仰兩足倍拳欲自微息定復為¶
 之春三夏五秋七冬九蕩滌五蔵津潤六府又云還向¶

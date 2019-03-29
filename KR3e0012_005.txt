@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 巢氏諸病源候總論
-#+DATE: 2019-03-29 21:03:56.366727
+#+DATE: 2019-03-29 21:03:56.713860
 #+PROPERTY: ID KR3e0012
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 5
 <pb:KR3e0012_WYG_005-1a>¶
 　　欽定四庫全書¶
@@ -59,7 +59,7 @@
 ¶
 　　又云凡學將息人先須正坐膝頭足初坐先足指指相¶
 對足跟外扒坐上少欲安穩須兩足跟向内相對坐上¶
-足指抧覺悶疼漸漸舉身似&KR0323;便兩足上待共坐相似¶
+足指抧覺悶疼漸漸舉身似𣢾便兩足上待共坐相似¶
 不痛始雙竪足跟而上足指并反而向外每坐常學去¶
 膀胱内冷面冷風膝冷足疼上氣腰疼盡自消適也¶
 ¶

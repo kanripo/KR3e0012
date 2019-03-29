@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 巢氏諸病源候總論
-#+DATE: 2019-03-29 21:03:56.388744
+#+DATE: 2019-03-29 21:03:56.728869
 #+PROPERTY: ID KR3e0012
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 8
 <pb:KR3e0012_WYG_008-1a>¶
 　　欽定四庫全書¶
@@ -310,7 +310,7 @@
 ¶
 　　傷寒病新瘥及大病之後脾胃尚虚穀氣未復若食猪¶
 肉腸血肥魚及久膩物必大下利醫所不能治也必至¶
-於死若食餅&KR0008;黍飴餔炙鱠&KR0037;栗諸菓脯物及牢强難¶
+於死若食餅&KR0008;黍飴餔炙鱠棗栗諸菓脯物及牢强難¶
 消之物胃氣虚弱不能消化必更結熱適以藥下之則¶
 胃虚冷大利難禁不可下之必死下之亦危皆難救也¶
 <pb:KR3e0012_WYG_008-13b>¶

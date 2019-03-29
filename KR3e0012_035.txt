@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 巢氏諸病源候總論
-#+DATE: 2019-03-29 21:03:56.569278
+#+DATE: 2019-03-29 21:03:56.856681
 #+PROPERTY: ID KR3e0012
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 35
 <pb:KR3e0012_WYG_035-1a>¶
 　　欽定四庫全書¶
@@ -284,9 +284,9 @@
 時則發雁去時則瘥故以爲名亦雁過荆漢之域多有¶
 此病¶
 ¶
-　　&KR0597;窠瘡候¶
+　　蜂窠瘡候¶
 ¶
-　　其瘡如疽瘻之類有小孔象於&KR0597;窠因以爲名此亦風¶
+　　其瘡如疽瘻之類有小孔象於蜂窠因以爲名此亦風¶
 濕摶於血氣之所生也¶
 ¶
 　　斷咽瘡候¶

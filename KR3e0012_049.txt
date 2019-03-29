@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 巢氏諸病源候總論
-#+DATE: 2019-03-29 21:03:56.649512
+#+DATE: 2019-03-29 21:03:56.923838
 #+PROPERTY: ID KR3e0012
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 49
 <pb:KR3e0012_WYG_049-1a>¶
 　　欽定四庫全書¶
@@ -94,7 +94,7 @@
 ¶
 　　留火丹候¶
 ¶
-　　留火丹之狀發一日一夜便成瘡如&KR0037;大正赤色謂之¶
+　　留火丹之狀發一日一夜便成瘡如棗大正赤色謂之¶
 留火丹也¶
 ¶
 　　朱田火丹候¶

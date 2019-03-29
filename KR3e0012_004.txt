@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 巢氏諸病源候總論
-#+DATE: 2019-03-29 21:03:56.359775
+#+DATE: 2019-03-29 21:03:56.709092
 #+PROPERTY: ID KR3e0012
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 4
 <pb:KR3e0012_WYG_004-1a>¶
 　　欽定四庫全書¶
@@ -168,7 +168,7 @@
 　　虚勞喜夢候¶
 ¶
 　　夫虚勞之人血氣衰損臟腑虚弱易傷於邪邪從外集¶
-内未有定舎反&KR0075;於臟不得定處與榮衞俱行而與魂¶
+内未有定舎反淫於臟不得定處與榮衞俱行而與魂¶
 魄飛揚使人卧不得安喜夢氣淫於腑則有餘於外不¶
 足於内氣淫於臟則有餘於内不足於外若隂氣盛則¶
 <pb:KR3e0012_WYG_004-7b>¶

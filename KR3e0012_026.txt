@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 巢氏諸病源候總論
-#+DATE: 2019-03-29 21:03:56.502531
+#+DATE: 2019-03-29 21:03:56.813580
 #+PROPERTY: ID KR3e0012
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 26
 <pb:KR3e0012_WYG_026-1a>¶
 　　欽定四庫全書¶
@@ -139,7 +139,7 @@
 ¶
 　　凡人往往因飲食忽然困悶少時致甚乃至死者名為¶
 飲食中毒言人假以毒物投食裏而殺人但其病頰内¶
-或懸癰内初如酸&KR0037;大漸漸長大是中毒也急治則差¶
+或懸癰内初如酸棗大漸漸長大是中毒也急治則差¶
 久不治毒入腹則死但診其脉浮之無陽微細而不可¶
 知者中毒也¶
 ¶

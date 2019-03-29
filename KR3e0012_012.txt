@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 巢氏諸病源候總論
-#+DATE: 2019-03-29 21:03:56.417521
+#+DATE: 2019-03-29 21:03:56.747969
 #+PROPERTY: ID KR3e0012
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 12
 <pb:KR3e0012_WYG_012-1a>¶
 　　欽定四庫全書¶
@@ -253,7 +253,7 @@
 腹肚齊冷兩膊急胸腋不和¶
 ¶
 　　又云于跪兩手向後手掌合地出氣向下始漸漸向下¶
-覺腰脊大悶還上來去二七身正左右散氣&KR0553;腰三七¶
+覺腰脊大悶還上來去二七身正左右散氣膊腰三七¶
 去齊下冷解谿内疼痛¶
 ¶
 　　寒熱候¶

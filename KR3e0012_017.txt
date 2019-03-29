@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 巢氏諸病源候總論
-#+DATE: 2019-03-29 21:03:56.455644
+#+DATE: 2019-03-29 21:03:56.772325
 #+PROPERTY: ID KR3e0012
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 17
 <pb:KR3e0012_WYG_017-1a>¶
 　　欽定四庫全書¶
@@ -44,7 +44,7 @@
 平無外其志使肺氣清此秋氣之應也養收之道也逆¶
 之則傷肺冬為餐泄¶
 ¶
-　　又云正月勿食未成核果及桃&KR0037;發癰癤不爾發寒熱¶
+　　又云正月勿食未成核果及桃棗發癰癤不爾發寒熱¶
 變黄疸又為泄痢¶
 ¶
 　　乆水榖痢候¶

@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 巢氏諸病源候總論
-#+DATE: 2019-03-29 21:03:56.405965
+#+DATE: 2019-03-29 21:03:56.740254
 #+PROPERTY: ID KR3e0012
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 10
 <pb:KR3e0012_WYG_010-1a>¶
 　　欽定四庫全書¶
@@ -219,7 +219,7 @@
 <pb:KR3e0012_WYG_010-9a>¶
 　　凡得温毒病新瘥脾胃尚虚穀氣未復若食犬猪羊肉¶
 并腸血及肥魚炙脂膩食此必大下利下利則不可復¶
-救又禁食餅餌炙膾&KR0037;栗諸生菓難消物則不能消化¶
+救又禁食餅餌炙膾棗栗諸生菓難消物則不能消化¶
 停積在於腸胃便脹滿結實大小便不通因更發熱復¶
 成病也非但雜食梳頭洗浴諸勞事等皆須慎之¶
 ¶
